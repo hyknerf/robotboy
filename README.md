@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋, I'm Frenky.
+
+Enthusiastic Software Engineer with 7+ years broad experience in Backend Development, Microservice Architecture, Event-Driven Development areas with willingness to master new technologies that are relevant to provide solution around Financial Technology.
+
+## I’m currently learning about Web3 with Solidity and React
+Here are some projects that I experiment with:
+
+### 👊 Punch Portal
+Simple Web3 app to iteract with Ethereum smart-contract.
+
+[Visit Web3 App](https://punch-portal-interface.vercel.app/) | [Contract Code](https://github.com/robotboy/punch-portal-contract) | [Front-end Interface](https://github.com/robotboy/punch-portal-interface)
 
 <!--
 **robotboy/robotboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
